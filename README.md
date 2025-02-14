@@ -6,4 +6,4 @@
 > sudo apt-get install libncurses5-dev libncursesw5-dev
 # Запуск программы
 Пример запуска программы с использованием компилятора GCC
-> /# gcc poker.c -lncursesw -o res && ./res
+> gcc poker.c -lncursesw -o res && ./res
